@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
     return Sizer(
       builder: (BuildContext context, Orientation orientation, DeviceType deviceType) {
         return MaterialApp(
-          title: 'Hapo CRM',
+          title: 'Hapo Myhome Doctor',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
             brightness: Brightness.light,
